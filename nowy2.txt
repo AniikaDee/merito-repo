@@ -1,0 +1,4 @@
+drugi
+plik
+w 
+nowymbranchu
