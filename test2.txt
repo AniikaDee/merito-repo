@@ -1,4 +1,0 @@
-taki
-test
-tu
-jest
